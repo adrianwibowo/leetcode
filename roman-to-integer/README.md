@@ -1,1 +1,1 @@
-[https://leetcode.com/submissions/detail/876480558/](result)
+🔰 [Result](https://leetcode.com/submissions/detail/876480558/)
