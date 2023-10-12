@@ -1,0 +1,1 @@
+[result](https://leetcode.com/problems/two-sum/submissions/1073596645/)
